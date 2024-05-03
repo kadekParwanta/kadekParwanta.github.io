@@ -31331,7 +31331,7 @@ var $async$aPB=A.p(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:if($.a2==null)A.HU()
 $.a2.toString
 s=2
-return A.j($.Aq().E2(0,"assets/base/.env"),$async$aPB)
+return A.j($.Aq().E2(0,"assets/base/dotenv.env"),$async$aPB)
 case 2:A.b9m()
 A.aSE(B.abT)
 A.ayR(A.a([B.Ot],t.UW)).bE(new A.aPE(),t.P)
